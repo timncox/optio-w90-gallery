@@ -1,86 +1,93 @@
 [
   {
-    "type": "photo",
-    "filename": "IMGP0002.JPG",
-    "url": "media/IMGP0002.JPG",
-    "timestamp": "2026-05-14T11:38:28Z",
-    "rotation": 0
+    "filename" : "IMGP0002.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T11:38:28Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0002.JPG"
   },
   {
-    "type": "photo",
-    "filename": "IMGP0003.JPG",
-    "url": "media/IMGP0003.JPG",
-    "timestamp": "2026-05-14T11:38:44Z",
-    "rotation": 0
+    "filename" : "IMGP0003.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T11:38:44Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0003.JPG"
   },
   {
-    "type": "photo",
-    "filename": "IMGP0004.JPG",
-    "url": "media/IMGP0004.JPG",
-    "timestamp": "2026-05-14T16:23:40Z",
-    "rotation": 0
+    "filename" : "IMGP0004.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T16:23:40Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0004.JPG"
   },
   {
-    "type": "photo",
-    "filename": "IMGP0005.JPG",
-    "url": "media/IMGP0005.JPG",
-    "timestamp": "2026-05-14T16:24:10Z",
-    "rotation": 0
+    "filename" : "IMGP0005.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T16:24:10Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0005.JPG"
   },
   {
-    "type": "photo",
-    "filename": "IMGP0006.JPG",
-    "url": "media/IMGP0006.JPG",
-    "timestamp": "2026-05-14T16:25:18Z",
-    "rotation": 0
+    "filename" : "IMGP0006.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T16:25:18Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0006.JPG"
   },
   {
-    "type": "photo",
-    "filename": "IMGP0007.JPG",
-    "url": "media/IMGP0007.JPG",
-    "timestamp": "2026-05-14T16:26:38Z",
-    "rotation": 0
+    "filename" : "IMGP0007.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T16:26:38Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0007.JPG"
   },
   {
-    "type": "photo",
-    "filename": "IMGP0008.JPG",
-    "url": "media/IMGP0008.JPG",
-    "timestamp": "2026-05-14T16:26:42Z",
-    "rotation": 0
+    "filename" : "IMGP0008.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T16:26:42Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0008.JPG"
   },
   {
-    "type": "photo",
-    "filename": "IMGP0009.JPG",
-    "url": "media/IMGP0009.JPG",
-    "timestamp": "2026-05-14T17:39:34Z",
-    "rotation": 0
+    "filename" : "IMGP0009.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T17:39:34Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0009.JPG"
   },
   {
-    "type": "photo",
-    "filename": "IMGP0010.JPG",
-    "url": "media/IMGP0010.JPG",
-    "timestamp": "2026-05-14T17:39:46Z",
-    "rotation": 0
+    "filename" : "IMGP0010.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T17:39:46Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0010.JPG"
   },
   {
-    "type": "photo",
-    "filename": "IMGP0011.JPG",
-    "url": "media/IMGP0011.JPG",
-    "timestamp": "2026-05-14T17:39:50Z",
-    "rotation": 0
+    "filename" : "IMGP0011.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T17:39:50Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0011.JPG"
   },
   {
-    "type": "photo",
-    "filename": "IMGP0012.JPG",
-    "url": "media/IMGP0012.JPG",
-    "timestamp": "2026-05-14T17:55:58Z",
-    "rotation": 0
+    "filename" : "IMGP0012.JPG",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T17:55:58Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0012.JPG"
   },
   {
-    "type": "video",
-    "filename": "IMGP0013.mp4",
-    "url": "media/IMGP0013.mp4",
-    "timestamp": "2026-05-14T17:57:50Z",
-    "rotation": 0
+    "filename" : "IMGP0013.mp4",
+    "rotation" : 0,
+    "timestamp" : "2026-05-14T17:57:50Z",
+    "type" : "video",
+    "url" : "media\/IMGP0013.mp4"
+  },
+  {
+    "filename" : "IMGP0001.JPG",
+    "hash" : "IMGP0001.JPG:2016487",
+    "timestamp" : "2010-01-01T04:00:12Z",
+    "type" : "photo",
+    "url" : "media\/IMGP0001.JPG"
   }
 ]
